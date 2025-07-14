@@ -1,2 +1,7 @@
 # DigiWater Platform
-Web-based tool for decision support and analysis of water quality in surface drinking water supplies, based on hydrodynamic modelling and other methods.
+
+Home page for NTNU Ålesund Smart Water group projects.
+
+Current projects underway
+1. Brusdalsvatnet Hydrodynamics Water Quality Modelling.
+2. HWQSS
